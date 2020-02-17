@@ -6,6 +6,9 @@ public class TestNG
 {	
 	
 	// JUST LOOKING TO PUSH NEW CHANGES TO GIT
+	// JUST LOOKING TO PUSH NEW CHANGES TO GIT
+	// JUST LOOKING TO PUSH NEW CHANGES TO GIT
+	// JUST LOOKING TO PUSH NEW CHANGES TO GIT
 	
 /*	@Test(priority=1,description ="This test case will launch the browser")
 	public void LaunchBrowser()
